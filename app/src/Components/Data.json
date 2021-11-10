@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Nguyen Van A",
+      "phone_number": "0947872384",
+      "permission": "Admin"
+    },
+
+    {
+        "id": 2,
+        "name": "Nguyen Van B",
+        "phone_number": "0947872439",
+        "permission": "User"
+    },
+
+    {
+        "id": 3,
+        "name": "Nguyen Van C",
+        "phone_number": "0947872358",
+        "permission": "User"
+    },
+
+    {
+        "id": 4,
+        "name": "Nguyen Van D",
+        "phone_number": "0947872342",
+        "permission": "User"
+    },
+
+    {
+        "id": 5,
+        "name": "Nguyen Van E",
+        "phone_number": "0947872326",
+        "permission": "User"
+    }
+      
+]
